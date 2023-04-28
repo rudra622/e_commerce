@@ -1,0 +1,51 @@
+
+.wrap .phone a {
+    color: #fff;
+    font-size: 12px;
+}
+.social-media {
+    display: inline-block;
+}
+.social-media p a {
+    width: 34px;
+    height: 34px;
+    background: #4d4d4d;
+    margin-right: 1px;
+}
+.social-media p a:hover {
+    background: #f1bc31;
+    border-color: #f1bc31;
+}
+.social-media p a {
+    color: #fff;
+}
+.searchform {
+    height: 46px;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    border-radius: 5px;
+}
+.searchform .form-control {
+    width: calc(100% - 46px);
+    border: none;
+    background: #fff !important;
+    color: rgba(0, 0, 0, 0.7) !important;
+    font-size: 14px;
+}
+.searchform .search {
+    width: 46px;
+    /* height: 46px; */
+}
+
+.searchform .form-control {
+    width: calc(100% - 46px);
+    border: none;
+    background: #fff !important;
+    color: rgba(0, 0, 0, 0.7) !important;
+    font-size: 14px;
+}
+.navbar-nav :hover {
+    visibility: visible;
+    background-color: #f1bc31;
+    transform: scaleX(1);
+}

@@ -1,0 +1,7 @@
+.form{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    border-bottom: 1px solid #fff!important;
+}

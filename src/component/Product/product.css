@@ -1,0 +1,48 @@
+.box-main {
+    width: 100%;
+    background-color: #fff;
+    height: auto;
+    padding: 20px;
+    box-shadow: 0 0 30px 10px #f0f0f0;
+    margin-bottom: 20px;
+}
+.shirt-text {
+    width: 100%;
+    font-size: 20px;
+    color: #30302e;
+    text-align: center;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+.price-text {
+    width: 100%;
+    font-size: 16px;
+    color: #f26522;
+    text-align: center;
+    margin: 0;
+}
+.price-text span{
+    color: #30302e;
+}
+.t-shirt-img {
+    width: 100%;
+    text-align: center;
+    margin: 50px 0;
+    min-height: 370px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+}
+.btn-main {
+    width: 100%;
+    display: flex;
+}
+.buy-bt a {
+    font-size: 16px;
+    color: #f26522;
+    background-color: transparent;
+    text-align: right;
+    font-weight: 700;
+}

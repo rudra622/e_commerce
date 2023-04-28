@@ -1,0 +1,25 @@
+.icon_1 {
+    width: 100%;
+    float: left;
+}
+.website_text {
+    width: 100%;
+    float: left;
+    font-size: 24px;
+    color: #282828;
+    text-transform: uppercase;
+    padding-top: 40px;
+    font-weight: 500;
+}
+.dolor_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #282828;
+    margin-left: 0;
+}
+p {
+    margin: 20px;
+    font-weight: 300;
+    line-height: 24px;
+}
